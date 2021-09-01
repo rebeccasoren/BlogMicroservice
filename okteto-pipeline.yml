@@ -1,0 +1,2 @@
+deploy:
+  - kubectl apply infra/k8s/*
